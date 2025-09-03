@@ -1,0 +1,1001 @@
+math_score,cs_score,communication,extracurricular,internship,career
+81,36,3,sports,yes,Data Scientist
+44,62,8,none,yes,Data Scientist
+90,52,3,tech,no,Software Engineer
+50,48,8,arts,no,Manager
+53,48,1,arts,yes,Data Scientist
+32,65,5,tech,yes,Data Scientist
+51,58,4,none,no,Teacher
+82,89,5,sports,no,Software Engineer
+31,31,8,tech,no,Software Engineer
+59,30,10,tech,no,Manager
+67,76,4,none,no,Software Engineer
+31,98,4,arts,no,Teacher
+93,49,3,none,no,Teacher
+89,40,7,tech,yes,Manager
+50,31,3,tech,no,Teacher
+62,96,3,arts,no,Data Scientist
+87,41,10,arts,yes,Data Scientist
+51,49,5,arts,no,Teacher
+78,34,5,none,no,Manager
+88,66,6,arts,yes,Software Engineer
+71,67,8,tech,no,Manager
+89,38,10,tech,yes,Software Engineer
+44,82,6,sports,yes,Teacher
+91,73,1,none,yes,Teacher
+91,53,8,sports,yes,Data Scientist
+76,59,8,tech,no,Software Engineer
+91,88,9,sports,yes,Manager
+80,43,9,tech,yes,Teacher
+84,38,2,sports,no,Manager
+93,69,2,arts,yes,Data Scientist
+32,95,3,sports,yes,Software Engineer
+80,54,1,arts,yes,Software Engineer
+36,51,4,arts,yes,Teacher
+50,33,4,none,no,Software Engineer
+68,55,9,arts,yes,Teacher
+47,87,9,arts,no,Data Scientist
+33,58,9,sports,no,Software Engineer
+89,66,10,tech,yes,Teacher
+43,99,7,none,yes,Manager
+38,47,2,arts,yes,Teacher
+82,71,10,none,yes,Software Engineer
+31,70,5,sports,no,Data Scientist
+89,67,4,arts,no,Software Engineer
+73,63,8,sports,no,Software Engineer
+37,46,2,none,yes,Teacher
+76,66,6,sports,no,Manager
+64,54,5,none,yes,Software Engineer
+65,56,2,sports,yes,Manager
+79,86,10,none,yes,Teacher
+33,60,1,tech,yes,Manager
+31,35,8,sports,yes,Teacher
+35,69,2,sports,no,Data Scientist
+83,41,7,tech,no,Manager
+33,82,9,tech,yes,Manager
+83,39,9,sports,no,Data Scientist
+92,74,8,tech,yes,Manager
+47,46,10,arts,yes,Data Scientist
+73,55,9,none,yes,Software Engineer
+63,91,2,none,no,Teacher
+91,75,6,none,yes,Data Scientist
+43,93,4,arts,yes,Manager
+77,31,4,tech,no,Data Scientist
+44,83,5,tech,no,Manager
+91,94,3,sports,no,Software Engineer
+69,80,1,tech,yes,Data Scientist
+82,82,8,sports,yes,Software Engineer
+53,65,5,arts,no,Teacher
+55,55,3,none,yes,Manager
+89,58,10,none,no,Manager
+70,50,7,none,no,Software Engineer
+58,40,7,tech,yes,Teacher
+44,69,1,sports,yes,Data Scientist
+74,40,9,sports,no,Data Scientist
+94,65,2,arts,no,Manager
+38,88,5,tech,no,Software Engineer
+30,68,5,arts,no,Software Engineer
+37,83,8,sports,yes,Data Scientist
+92,84,8,sports,no,Teacher
+40,53,7,none,no,Teacher
+37,51,7,tech,no,Data Scientist
+64,98,6,sports,yes,Data Scientist
+64,85,6,none,yes,Software Engineer
+62,62,9,tech,no,Teacher
+34,65,6,arts,yes,Data Scientist
+70,49,2,tech,yes,Data Scientist
+57,91,2,tech,yes,Manager
+36,55,5,sports,no,Data Scientist
+41,95,4,sports,no,Data Scientist
+63,69,2,tech,yes,Teacher
+62,46,3,sports,no,Software Engineer
+77,30,7,sports,no,Teacher
+52,90,8,sports,yes,Software Engineer
+91,72,6,none,yes,Manager
+66,71,5,none,no,Data Scientist
+73,54,1,tech,yes,Manager
+64,68,8,sports,no,Software Engineer
+94,64,3,none,no,Teacher
+76,32,6,tech,yes,Teacher
+32,73,3,sports,no,Manager
+30,80,7,arts,no,Software Engineer
+34,41,7,sports,yes,Manager
+43,48,9,sports,yes,Manager
+56,73,5,none,yes,Data Scientist
+38,88,8,tech,no,Manager
+44,78,10,tech,yes,Data Scientist
+71,90,10,none,yes,Data Scientist
+80,46,8,sports,yes,Teacher
+92,86,1,arts,yes,Data Scientist
+81,84,5,sports,no,Data Scientist
+33,76,3,sports,no,Teacher
+52,41,1,arts,yes,Manager
+44,91,4,none,no,Software Engineer
+72,37,8,tech,yes,Software Engineer
+58,50,3,none,yes,Software Engineer
+65,99,10,none,no,Manager
+42,54,2,sports,no,Data Scientist
+61,41,9,tech,yes,Software Engineer
+88,44,10,tech,yes,Manager
+57,88,5,none,no,Data Scientist
+95,55,7,arts,yes,Teacher
+71,55,2,none,no,Software Engineer
+74,76,9,arts,yes,Data Scientist
+91,61,9,tech,yes,Software Engineer
+86,39,4,none,no,Software Engineer
+35,45,4,sports,no,Software Engineer
+57,46,6,none,no,Data Scientist
+57,52,10,tech,no,Manager
+73,55,10,sports,no,Data Scientist
+59,36,10,sports,no,Software Engineer
+91,43,6,arts,no,Data Scientist
+91,36,1,sports,yes,Teacher
+30,38,9,sports,yes,Manager
+56,77,2,none,yes,Data Scientist
+91,88,5,tech,no,Teacher
+32,68,9,arts,no,Manager
+99,47,4,none,no,Teacher
+56,88,3,sports,yes,Manager
+38,46,7,sports,no,Data Scientist
+91,43,6,arts,no,Teacher
+66,60,8,tech,yes,Software Engineer
+80,53,3,arts,no,Teacher
+73,89,5,none,yes,Manager
+53,74,10,arts,yes,Data Scientist
+88,32,4,sports,no,Manager
+61,66,4,none,no,Teacher
+81,72,4,sports,no,Teacher
+91,69,10,tech,yes,Software Engineer
+87,84,8,sports,yes,Data Scientist
+81,68,6,sports,yes,Data Scientist
+41,44,3,arts,no,Teacher
+68,33,10,sports,no,Data Scientist
+31,54,5,none,no,Software Engineer
+32,42,6,none,no,Manager
+85,62,5,tech,yes,Data Scientist
+88,45,6,none,yes,Teacher
+31,71,8,arts,yes,Manager
+31,95,7,tech,yes,Manager
+83,84,5,none,no,Software Engineer
+30,71,10,arts,no,Teacher
+48,63,6,none,no,Data Scientist
+31,59,4,none,yes,Teacher
+82,42,9,sports,yes,Manager
+73,42,4,none,no,Teacher
+61,47,1,none,no,Data Scientist
+99,61,7,arts,yes,Data Scientist
+61,68,7,arts,no,Software Engineer
+97,75,4,sports,yes,Data Scientist
+84,58,3,none,yes,Data Scientist
+85,91,8,sports,yes,Teacher
+46,91,5,none,no,Teacher
+67,86,10,tech,no,Manager
+53,45,7,tech,yes,Software Engineer
+98,85,4,sports,no,Teacher
+99,39,4,sports,yes,Data Scientist
+40,59,8,sports,yes,Manager
+45,54,8,arts,yes,Teacher
+88,34,2,arts,yes,Software Engineer
+99,94,2,arts,no,Software Engineer
+32,78,3,sports,yes,Manager
+49,32,3,none,yes,Manager
+88,74,1,tech,no,Manager
+65,43,3,sports,yes,Manager
+48,59,6,arts,yes,Manager
+96,97,8,arts,no,Data Scientist
+48,47,10,sports,no,Data Scientist
+49,91,6,sports,no,Teacher
+81,66,5,arts,yes,Software Engineer
+62,54,4,none,no,Data Scientist
+69,77,3,arts,no,Data Scientist
+68,94,4,arts,yes,Data Scientist
+30,82,7,sports,yes,Teacher
+40,44,1,none,yes,Manager
+86,78,7,arts,yes,Teacher
+79,97,1,arts,yes,Software Engineer
+52,41,2,tech,no,Software Engineer
+60,88,4,sports,no,Software Engineer
+71,66,1,tech,no,Software Engineer
+36,90,9,tech,yes,Data Scientist
+45,72,6,arts,yes,Data Scientist
+89,99,1,sports,yes,Teacher
+31,68,1,none,no,Manager
+30,85,6,arts,no,Software Engineer
+77,92,4,none,yes,Teacher
+41,75,4,none,no,Data Scientist
+98,40,6,sports,yes,Data Scientist
+66,91,7,tech,no,Manager
+61,54,9,sports,no,Manager
+38,81,10,none,no,Manager
+48,33,5,arts,yes,Teacher
+77,88,9,none,no,Data Scientist
+32,49,4,arts,no,Data Scientist
+49,92,10,arts,yes,Manager
+53,83,2,sports,no,Software Engineer
+83,86,3,none,yes,Manager
+62,70,1,tech,yes,Teacher
+53,32,6,none,yes,Manager
+65,35,6,none,yes,Manager
+67,34,1,tech,yes,Teacher
+54,34,3,sports,no,Manager
+47,83,5,none,yes,Data Scientist
+95,76,3,none,yes,Software Engineer
+83,78,10,arts,yes,Manager
+64,38,3,none,yes,Teacher
+90,49,10,tech,no,Software Engineer
+70,90,3,arts,yes,Teacher
+62,64,5,sports,no,Software Engineer
+97,79,5,arts,yes,Software Engineer
+62,91,4,tech,no,Manager
+43,46,1,tech,yes,Data Scientist
+50,32,5,arts,yes,Manager
+77,61,10,sports,no,Teacher
+49,42,5,arts,yes,Teacher
+37,97,4,sports,no,Software Engineer
+36,43,6,arts,yes,Software Engineer
+96,40,10,tech,no,Data Scientist
+46,85,4,none,yes,Manager
+62,96,7,none,yes,Teacher
+77,58,7,sports,no,Software Engineer
+88,38,2,sports,yes,Data Scientist
+51,96,3,sports,yes,Teacher
+59,54,1,tech,yes,Software Engineer
+67,71,8,arts,yes,Teacher
+80,38,9,tech,yes,Data Scientist
+83,69,4,none,yes,Data Scientist
+37,54,6,sports,no,Teacher
+56,34,9,arts,no,Manager
+56,40,6,none,no,Teacher
+50,88,9,none,yes,Software Engineer
+59,67,4,none,no,Manager
+57,34,8,tech,yes,Software Engineer
+93,77,9,sports,yes,Teacher
+98,47,4,none,yes,Manager
+90,99,5,sports,yes,Software Engineer
+77,66,8,tech,no,Teacher
+48,89,10,none,yes,Teacher
+33,77,6,tech,no,Manager
+64,57,7,tech,yes,Teacher
+93,98,3,sports,no,Data Scientist
+78,69,7,none,no,Software Engineer
+46,74,8,tech,no,Software Engineer
+73,91,10,none,no,Teacher
+59,87,6,sports,no,Teacher
+75,96,10,tech,no,Data Scientist
+35,85,9,sports,yes,Manager
+66,69,6,none,no,Teacher
+53,69,9,none,yes,Teacher
+75,62,4,sports,no,Teacher
+82,35,8,arts,yes,Teacher
+89,48,4,tech,no,Software Engineer
+92,69,2,none,no,Teacher
+61,88,10,none,yes,Software Engineer
+62,88,9,tech,no,Teacher
+96,77,5,sports,no,Manager
+47,70,4,sports,no,Data Scientist
+54,42,2,sports,yes,Manager
+83,74,1,arts,no,Teacher
+87,82,7,arts,yes,Teacher
+96,71,6,none,no,Teacher
+75,92,2,sports,no,Manager
+53,56,8,tech,yes,Teacher
+61,67,4,none,no,Manager
+76,89,8,tech,no,Software Engineer
+52,36,7,none,yes,Data Scientist
+95,34,5,arts,no,Data Scientist
+56,74,10,none,yes,Manager
+31,87,10,arts,yes,Software Engineer
+46,60,8,none,yes,Manager
+62,52,9,sports,no,Software Engineer
+38,71,5,tech,yes,Teacher
+72,39,10,sports,yes,Software Engineer
+77,61,5,none,no,Software Engineer
+68,82,2,none,yes,Software Engineer
+71,59,5,none,no,Data Scientist
+55,68,3,arts,no,Software Engineer
+79,60,7,tech,no,Teacher
+54,31,10,tech,no,Teacher
+53,41,5,none,yes,Teacher
+42,68,8,none,yes,Software Engineer
+89,95,1,arts,yes,Manager
+36,42,3,sports,yes,Manager
+86,75,3,sports,yes,Teacher
+65,56,9,tech,no,Data Scientist
+74,46,5,arts,yes,Manager
+49,89,9,none,yes,Software Engineer
+94,93,9,tech,yes,Manager
+37,64,1,arts,no,Teacher
+45,99,2,sports,no,Data Scientist
+43,59,5,arts,yes,Manager
+44,92,4,sports,no,Manager
+95,57,10,arts,yes,Teacher
+61,89,9,tech,yes,Data Scientist
+92,66,7,sports,no,Data Scientist
+80,51,6,tech,no,Teacher
+54,97,7,tech,yes,Software Engineer
+87,49,1,sports,yes,Manager
+92,97,1,sports,no,Software Engineer
+91,93,8,none,yes,Manager
+51,46,2,none,no,Manager
+87,41,10,none,yes,Software Engineer
+87,51,9,tech,no,Teacher
+78,46,7,tech,yes,Teacher
+81,39,6,none,yes,Manager
+71,94,1,tech,no,Teacher
+99,51,1,tech,yes,Manager
+44,79,2,sports,yes,Teacher
+83,43,6,sports,no,Manager
+89,93,6,tech,yes,Teacher
+37,76,2,none,yes,Data Scientist
+82,58,1,arts,yes,Software Engineer
+89,65,10,none,no,Data Scientist
+34,81,5,arts,no,Software Engineer
+97,36,5,none,no,Software Engineer
+35,58,2,sports,yes,Manager
+76,40,6,tech,yes,Software Engineer
+84,62,9,tech,yes,Data Scientist
+69,35,2,sports,yes,Data Scientist
+81,61,10,arts,no,Teacher
+45,80,2,arts,yes,Data Scientist
+42,87,3,arts,yes,Teacher
+59,55,7,sports,yes,Software Engineer
+48,75,6,arts,no,Data Scientist
+46,58,8,sports,yes,Software Engineer
+92,33,8,none,yes,Data Scientist
+48,42,6,none,yes,Data Scientist
+87,68,10,sports,yes,Teacher
+84,44,3,tech,yes,Software Engineer
+91,58,3,none,no,Data Scientist
+52,58,1,arts,yes,Manager
+38,61,7,sports,yes,Software Engineer
+41,31,5,arts,yes,Software Engineer
+30,76,4,arts,yes,Software Engineer
+87,51,10,tech,yes,Teacher
+30,56,4,arts,yes,Manager
+63,96,4,tech,yes,Software Engineer
+77,85,6,none,yes,Data Scientist
+30,50,8,sports,yes,Data Scientist
+45,76,8,arts,yes,Teacher
+90,88,5,sports,no,Data Scientist
+93,35,6,arts,no,Software Engineer
+92,48,4,sports,no,Data Scientist
+98,86,9,arts,no,Software Engineer
+51,98,8,arts,yes,Data Scientist
+96,32,10,arts,no,Manager
+55,30,10,arts,no,Teacher
+45,87,1,arts,yes,Teacher
+80,67,2,arts,no,Manager
+86,44,9,arts,no,Manager
+58,63,8,arts,yes,Teacher
+98,90,3,arts,yes,Manager
+76,64,8,sports,yes,Software Engineer
+91,93,1,tech,no,Data Scientist
+98,54,10,arts,no,Teacher
+45,53,4,tech,yes,Manager
+77,41,3,arts,yes,Software Engineer
+68,47,6,arts,no,Teacher
+62,44,7,sports,yes,Manager
+52,56,4,none,no,Teacher
+39,89,7,none,yes,Manager
+98,75,9,sports,yes,Teacher
+63,46,2,tech,no,Software Engineer
+81,82,3,none,yes,Software Engineer
+39,37,5,sports,yes,Data Scientist
+48,56,3,sports,yes,Teacher
+87,75,8,none,no,Data Scientist
+30,79,10,tech,yes,Teacher
+98,32,8,sports,yes,Manager
+33,93,8,arts,yes,Manager
+45,73,9,tech,yes,Data Scientist
+53,82,4,tech,yes,Teacher
+31,53,5,none,yes,Data Scientist
+61,89,5,none,no,Software Engineer
+53,32,8,arts,no,Data Scientist
+41,49,7,sports,yes,Data Scientist
+79,75,9,none,no,Manager
+64,44,8,none,no,Data Scientist
+62,54,2,tech,yes,Teacher
+62,46,10,none,no,Manager
+90,38,4,none,no,Data Scientist
+80,67,6,none,no,Software Engineer
+72,77,2,none,no,Data Scientist
+41,89,7,tech,no,Data Scientist
+96,92,3,arts,no,Data Scientist
+94,31,3,arts,no,Manager
+62,40,2,sports,no,Teacher
+69,93,8,none,yes,Software Engineer
+72,50,6,tech,yes,Data Scientist
+73,47,1,sports,no,Teacher
+58,93,1,sports,no,Teacher
+42,67,7,arts,yes,Manager
+41,61,8,tech,no,Software Engineer
+75,40,5,tech,no,Manager
+31,74,5,tech,yes,Teacher
+64,62,4,arts,yes,Teacher
+37,70,6,arts,yes,Teacher
+55,37,6,arts,no,Manager
+63,40,3,arts,no,Software Engineer
+36,80,9,arts,yes,Data Scientist
+97,70,7,none,yes,Manager
+87,46,1,none,no,Teacher
+58,75,7,tech,yes,Manager
+65,61,5,sports,no,Teacher
+50,83,5,tech,no,Data Scientist
+65,49,2,sports,yes,Data Scientist
+39,62,4,arts,yes,Software Engineer
+53,69,6,sports,no,Teacher
+93,61,10,tech,yes,Software Engineer
+78,31,7,tech,yes,Software Engineer
+65,62,5,sports,yes,Data Scientist
+53,59,9,none,yes,Manager
+52,62,3,arts,no,Manager
+91,55,1,arts,no,Software Engineer
+66,51,4,tech,no,Data Scientist
+41,95,9,none,no,Teacher
+84,67,4,sports,yes,Manager
+42,75,2,arts,yes,Software Engineer
+52,44,10,none,no,Manager
+59,73,5,arts,no,Manager
+46,78,3,none,yes,Teacher
+91,90,9,none,no,Data Scientist
+42,96,4,tech,no,Teacher
+88,35,6,arts,yes,Data Scientist
+48,38,2,sports,no,Manager
+78,35,6,tech,yes,Software Engineer
+41,61,3,tech,yes,Teacher
+90,70,9,sports,no,Data Scientist
+48,37,2,tech,yes,Manager
+38,79,9,none,no,Data Scientist
+57,91,5,none,yes,Data Scientist
+81,91,8,arts,no,Data Scientist
+45,36,2,arts,no,Manager
+98,33,6,sports,no,Software Engineer
+41,35,3,arts,yes,Software Engineer
+54,87,10,none,yes,Software Engineer
+81,51,5,sports,no,Data Scientist
+82,55,8,sports,yes,Manager
+52,32,10,arts,no,Data Scientist
+45,70,1,none,no,Software Engineer
+86,89,5,sports,yes,Software Engineer
+68,43,3,none,no,Manager
+82,41,4,none,yes,Data Scientist
+71,41,2,none,no,Teacher
+87,42,9,arts,yes,Teacher
+68,54,3,tech,no,Software Engineer
+43,74,2,tech,no,Manager
+34,48,10,sports,yes,Data Scientist
+64,84,9,none,no,Data Scientist
+47,74,7,arts,no,Software Engineer
+38,37,6,none,yes,Software Engineer
+87,82,1,none,no,Data Scientist
+46,84,5,arts,yes,Data Scientist
+36,61,3,tech,no,Software Engineer
+75,80,1,none,yes,Data Scientist
+42,73,4,none,no,Teacher
+69,99,2,tech,no,Software Engineer
+71,47,2,arts,no,Data Scientist
+38,51,3,sports,yes,Software Engineer
+79,66,8,tech,yes,Manager
+56,85,8,sports,yes,Software Engineer
+95,88,7,sports,yes,Software Engineer
+34,32,6,tech,no,Manager
+58,57,9,none,no,Teacher
+66,64,4,sports,yes,Data Scientist
+67,90,1,sports,yes,Manager
+37,83,8,arts,yes,Software Engineer
+94,92,7,none,no,Data Scientist
+46,36,7,sports,yes,Manager
+74,78,3,arts,yes,Data Scientist
+33,60,4,none,no,Data Scientist
+65,87,10,tech,no,Manager
+99,90,9,tech,yes,Data Scientist
+60,53,6,arts,no,Teacher
+48,49,5,tech,yes,Manager
+90,66,3,sports,no,Teacher
+83,33,9,none,yes,Software Engineer
+68,49,5,sports,yes,Data Scientist
+48,89,5,sports,yes,Software Engineer
+68,53,4,tech,yes,Software Engineer
+96,79,4,sports,no,Data Scientist
+74,78,1,tech,no,Manager
+42,80,7,none,no,Data Scientist
+87,65,9,none,no,Software Engineer
+49,95,3,sports,yes,Software Engineer
+90,63,2,arts,yes,Manager
+68,65,3,tech,no,Data Scientist
+30,35,1,tech,no,Software Engineer
+32,68,6,sports,no,Teacher
+91,71,7,tech,no,Software Engineer
+92,87,2,tech,no,Software Engineer
+54,41,8,arts,yes,Manager
+85,32,6,arts,yes,Teacher
+62,47,4,sports,yes,Software Engineer
+67,69,5,arts,no,Software Engineer
+35,50,8,sports,no,Teacher
+87,44,3,none,no,Data Scientist
+73,55,3,sports,no,Data Scientist
+74,37,4,none,yes,Software Engineer
+61,71,1,sports,yes,Software Engineer
+74,73,9,tech,no,Data Scientist
+90,43,8,arts,yes,Manager
+76,31,8,none,yes,Teacher
+50,66,10,sports,no,Teacher
+65,98,6,arts,no,Manager
+48,67,7,sports,no,Manager
+49,70,6,arts,no,Manager
+86,91,9,arts,no,Manager
+47,89,3,sports,no,Manager
+76,43,3,none,yes,Manager
+78,31,3,none,yes,Teacher
+43,99,10,tech,no,Manager
+44,46,3,arts,yes,Data Scientist
+60,57,9,tech,no,Manager
+30,95,4,tech,no,Manager
+83,64,7,sports,no,Teacher
+32,34,9,sports,no,Teacher
+45,94,7,sports,yes,Manager
+86,69,9,arts,no,Teacher
+41,85,3,sports,yes,Software Engineer
+45,65,4,sports,no,Teacher
+53,74,8,arts,no,Teacher
+57,52,6,arts,no,Teacher
+37,76,5,none,yes,Teacher
+65,60,4,sports,no,Data Scientist
+37,40,8,sports,no,Data Scientist
+87,39,1,sports,no,Data Scientist
+89,96,9,none,yes,Manager
+79,43,1,sports,yes,Manager
+57,39,8,none,yes,Software Engineer
+70,30,4,tech,no,Data Scientist
+93,34,9,none,yes,Manager
+56,49,5,tech,no,Teacher
+92,37,3,sports,yes,Teacher
+46,72,9,tech,yes,Data Scientist
+62,30,9,none,no,Software Engineer
+58,86,4,arts,yes,Software Engineer
+42,93,4,tech,no,Teacher
+75,57,8,tech,no,Software Engineer
+64,66,2,sports,yes,Data Scientist
+35,76,9,none,no,Teacher
+98,66,6,tech,no,Manager
+76,78,9,tech,yes,Manager
+54,73,8,tech,yes,Software Engineer
+95,85,7,tech,no,Teacher
+39,57,1,arts,yes,Teacher
+85,35,3,none,no,Manager
+59,90,2,sports,no,Teacher
+34,49,5,sports,yes,Teacher
+62,31,5,arts,yes,Teacher
+94,66,5,none,yes,Software Engineer
+47,49,4,tech,yes,Teacher
+78,55,5,arts,no,Data Scientist
+40,58,3,none,no,Software Engineer
+55,30,1,tech,yes,Teacher
+92,64,5,arts,yes,Teacher
+88,99,9,none,no,Data Scientist
+56,88,9,sports,no,Software Engineer
+78,98,4,sports,no,Manager
+62,62,3,none,no,Manager
+30,80,1,sports,yes,Software Engineer
+50,41,2,none,no,Teacher
+84,49,8,tech,no,Teacher
+35,82,1,none,yes,Manager
+98,72,8,tech,no,Manager
+34,79,7,arts,no,Manager
+32,58,8,none,yes,Data Scientist
+82,86,6,arts,yes,Manager
+52,68,9,sports,yes,Data Scientist
+82,85,3,tech,no,Software Engineer
+66,72,10,none,no,Teacher
+46,79,4,arts,yes,Manager
+30,52,6,tech,yes,Teacher
+80,73,8,tech,no,Teacher
+74,67,5,sports,yes,Manager
+33,52,3,sports,yes,Manager
+91,74,6,tech,yes,Software Engineer
+94,81,4,tech,no,Data Scientist
+61,79,9,none,no,Data Scientist
+63,37,3,tech,no,Teacher
+68,30,4,none,no,Manager
+55,37,7,tech,no,Software Engineer
+63,58,7,sports,no,Software Engineer
+83,34,4,none,yes,Software Engineer
+32,76,6,arts,no,Software Engineer
+79,63,3,sports,no,Software Engineer
+41,94,6,none,yes,Data Scientist
+94,84,2,none,no,Data Scientist
+83,72,8,arts,no,Data Scientist
+34,59,2,none,yes,Manager
+86,46,7,tech,yes,Teacher
+46,55,9,arts,yes,Software Engineer
+76,37,1,sports,no,Manager
+52,76,8,sports,yes,Software Engineer
+43,75,7,tech,no,Data Scientist
+95,97,6,sports,no,Manager
+80,62,6,none,no,Data Scientist
+67,30,6,none,no,Software Engineer
+93,48,9,tech,yes,Software Engineer
+67,60,2,sports,yes,Teacher
+79,43,1,sports,no,Software Engineer
+59,82,6,tech,yes,Data Scientist
+80,77,10,arts,no,Software Engineer
+92,98,8,sports,no,Teacher
+81,91,3,arts,no,Teacher
+67,95,10,sports,yes,Data Scientist
+59,93,1,sports,no,Manager
+80,99,9,sports,no,Software Engineer
+34,92,1,sports,yes,Teacher
+58,62,3,none,yes,Software Engineer
+33,70,8,arts,yes,Software Engineer
+39,77,3,arts,yes,Manager
+85,42,4,sports,no,Teacher
+46,60,8,sports,yes,Software Engineer
+46,97,1,arts,no,Teacher
+98,33,6,none,yes,Data Scientist
+63,48,1,tech,yes,Data Scientist
+35,99,1,tech,yes,Software Engineer
+82,42,8,arts,yes,Teacher
+95,52,4,sports,yes,Software Engineer
+72,30,1,sports,yes,Teacher
+52,83,10,none,no,Teacher
+84,44,7,tech,yes,Manager
+45,94,5,none,yes,Manager
+37,44,5,tech,yes,Manager
+33,50,1,arts,yes,Software Engineer
+33,48,10,tech,no,Manager
+85,89,6,none,yes,Manager
+54,62,9,none,yes,Data Scientist
+96,78,9,none,yes,Teacher
+96,64,8,arts,yes,Teacher
+56,73,5,tech,no,Manager
+61,40,1,tech,yes,Teacher
+79,95,9,none,no,Data Scientist
+90,75,1,tech,yes,Data Scientist
+80,38,8,sports,no,Manager
+48,32,5,sports,no,Data Scientist
+50,55,3,sports,yes,Teacher
+34,77,7,tech,yes,Software Engineer
+71,95,7,arts,no,Teacher
+90,99,9,arts,no,Software Engineer
+51,57,7,arts,yes,Manager
+50,55,3,arts,no,Software Engineer
+99,54,1,sports,no,Data Scientist
+30,41,8,sports,no,Teacher
+34,34,3,none,yes,Software Engineer
+41,77,8,tech,no,Teacher
+75,66,8,tech,no,Manager
+63,73,5,arts,no,Manager
+78,44,1,sports,yes,Data Scientist
+74,72,10,arts,yes,Manager
+56,77,7,none,no,Software Engineer
+55,99,10,tech,yes,Manager
+76,75,5,tech,no,Data Scientist
+85,72,8,arts,yes,Teacher
+92,50,9,none,yes,Teacher
+77,52,7,tech,no,Manager
+90,76,7,none,yes,Software Engineer
+55,44,1,none,yes,Data Scientist
+65,54,4,arts,yes,Software Engineer
+30,65,2,sports,no,Data Scientist
+37,80,2,arts,yes,Manager
+81,44,2,sports,yes,Data Scientist
+76,97,4,none,no,Data Scientist
+85,50,1,sports,yes,Manager
+43,42,4,none,yes,Software Engineer
+57,48,2,tech,yes,Manager
+31,63,5,tech,yes,Data Scientist
+55,97,3,tech,yes,Manager
+43,81,8,arts,no,Data Scientist
+88,56,4,arts,no,Manager
+85,58,1,none,yes,Teacher
+36,57,1,tech,yes,Teacher
+32,64,10,arts,yes,Manager
+52,37,3,tech,no,Software Engineer
+47,45,9,arts,no,Data Scientist
+67,65,7,sports,yes,Teacher
+44,59,2,sports,yes,Software Engineer
+93,47,9,tech,no,Data Scientist
+57,31,10,none,yes,Teacher
+68,78,2,arts,no,Teacher
+86,33,3,arts,no,Manager
+46,36,10,sports,yes,Data Scientist
+73,68,2,sports,no,Software Engineer
+54,42,3,none,yes,Software Engineer
+46,60,6,none,yes,Software Engineer
+42,92,9,none,yes,Data Scientist
+54,85,9,tech,yes,Software Engineer
+97,71,7,sports,yes,Software Engineer
+39,90,3,tech,yes,Software Engineer
+96,71,4,sports,no,Manager
+47,85,6,sports,no,Manager
+63,65,5,arts,no,Data Scientist
+37,97,2,sports,no,Data Scientist
+69,36,6,sports,yes,Software Engineer
+71,83,3,tech,no,Manager
+70,30,8,sports,no,Teacher
+35,73,2,tech,no,Teacher
+81,74,1,none,yes,Software Engineer
+55,76,9,sports,no,Software Engineer
+93,42,3,sports,yes,Manager
+88,51,1,tech,no,Manager
+85,50,7,none,yes,Manager
+88,38,10,arts,yes,Data Scientist
+99,55,5,none,no,Data Scientist
+62,38,5,tech,yes,Software Engineer
+82,44,1,none,yes,Data Scientist
+51,39,9,tech,no,Manager
+50,71,7,tech,no,Manager
+99,53,8,arts,no,Data Scientist
+99,78,9,sports,yes,Teacher
+33,55,6,tech,yes,Software Engineer
+91,66,5,tech,yes,Teacher
+91,97,6,arts,no,Software Engineer
+53,79,2,tech,yes,Teacher
+84,53,4,sports,yes,Data Scientist
+38,48,3,arts,yes,Software Engineer
+32,89,7,sports,yes,Software Engineer
+60,68,9,sports,yes,Software Engineer
+69,47,5,arts,yes,Manager
+65,48,6,tech,yes,Manager
+53,65,10,sports,no,Teacher
+35,84,2,sports,no,Data Scientist
+95,98,3,sports,no,Manager
+33,76,3,sports,yes,Software Engineer
+35,78,9,arts,yes,Manager
+80,62,7,arts,no,Data Scientist
+91,50,8,none,yes,Manager
+86,51,10,none,no,Software Engineer
+95,77,9,sports,yes,Teacher
+37,66,6,tech,yes,Software Engineer
+55,44,4,sports,no,Data Scientist
+80,64,1,tech,no,Teacher
+74,61,8,sports,no,Manager
+73,40,7,none,no,Manager
+34,39,2,none,no,Manager
+99,86,8,tech,yes,Teacher
+55,54,5,sports,yes,Software Engineer
+97,31,7,tech,yes,Teacher
+48,93,4,none,no,Teacher
+49,64,5,sports,no,Data Scientist
+41,36,8,sports,no,Teacher
+76,47,1,tech,no,Manager
+30,96,1,arts,no,Software Engineer
+43,71,4,tech,no,Software Engineer
+93,68,3,none,yes,Software Engineer
+67,70,10,none,yes,Manager
+66,53,2,none,yes,Manager
+40,89,3,none,yes,Manager
+32,75,1,none,yes,Manager
+62,48,1,arts,no,Manager
+35,97,6,sports,no,Teacher
+79,71,5,tech,no,Manager
+39,61,8,tech,no,Manager
+34,68,2,none,no,Manager
+52,65,4,tech,no,Manager
+39,65,8,none,yes,Software Engineer
+73,32,6,arts,no,Manager
+31,37,1,arts,no,Teacher
+42,99,4,sports,no,Teacher
+69,70,1,arts,no,Teacher
+31,97,2,arts,yes,Data Scientist
+94,42,5,sports,yes,Software Engineer
+92,78,8,tech,no,Manager
+46,89,8,none,yes,Data Scientist
+38,31,3,none,yes,Manager
+44,89,4,tech,no,Data Scientist
+53,34,10,sports,no,Data Scientist
+67,73,6,tech,no,Teacher
+64,56,10,arts,no,Teacher
+78,61,3,sports,no,Data Scientist
+98,50,2,sports,yes,Teacher
+91,37,6,sports,no,Data Scientist
+89,79,5,none,no,Software Engineer
+79,96,10,tech,no,Teacher
+38,73,5,sports,yes,Teacher
+63,87,10,sports,no,Teacher
+64,32,5,sports,no,Software Engineer
+30,99,10,tech,no,Data Scientist
+69,31,5,none,yes,Manager
+93,73,3,arts,no,Teacher
+51,31,7,none,no,Data Scientist
+89,64,6,sports,no,Software Engineer
+93,59,4,none,yes,Manager
+40,37,2,none,no,Teacher
+43,51,9,arts,no,Software Engineer
+89,73,1,tech,no,Software Engineer
+59,87,4,tech,yes,Manager
+64,65,1,none,no,Data Scientist
+66,98,6,none,no,Teacher
+34,60,4,tech,no,Teacher
+55,76,5,tech,yes,Data Scientist
+91,84,5,arts,yes,Data Scientist
+33,91,9,sports,no,Data Scientist
+71,59,1,none,yes,Manager
+47,84,2,tech,yes,Manager
+69,45,6,none,yes,Teacher
+68,41,5,none,no,Manager
+43,46,7,tech,no,Software Engineer
+61,45,3,arts,yes,Teacher
+80,41,3,none,yes,Manager
+67,37,10,arts,yes,Data Scientist
+52,32,2,tech,no,Software Engineer
+92,45,3,sports,no,Data Scientist
+44,59,10,sports,yes,Teacher
+54,52,1,none,yes,Data Scientist
+46,34,5,tech,yes,Manager
+95,94,5,arts,yes,Manager
+82,59,7,none,no,Teacher
+80,50,4,tech,yes,Data Scientist
+68,99,3,tech,no,Teacher
+80,51,1,arts,yes,Data Scientist
+99,61,8,none,yes,Software Engineer
+35,62,3,tech,yes,Manager
+96,45,2,tech,yes,Teacher
+36,67,4,tech,yes,Software Engineer
+80,43,3,arts,no,Software Engineer
+71,65,1,none,yes,Teacher
+93,52,3,none,yes,Teacher
+44,95,2,none,yes,Software Engineer
+58,31,8,none,no,Data Scientist
+62,94,6,sports,no,Software Engineer
+56,96,9,sports,no,Teacher
+65,81,8,none,no,Software Engineer
+58,91,10,arts,yes,Data Scientist
+67,52,3,sports,yes,Manager
+86,55,5,tech,yes,Manager
+56,97,7,sports,no,Software Engineer
+84,84,5,tech,yes,Data Scientist
+62,35,8,none,yes,Manager
+97,64,5,sports,no,Software Engineer
+95,51,1,arts,no,Software Engineer
+39,72,5,sports,no,Data Scientist
+34,44,4,sports,yes,Teacher
+67,89,6,sports,yes,Software Engineer
+42,41,3,none,no,Teacher
+60,78,5,arts,yes,Teacher
+76,71,2,sports,no,Manager
+81,67,6,arts,no,Teacher
+85,74,6,none,yes,Data Scientist
+44,64,5,tech,no,Manager
+58,59,6,sports,no,Manager
+37,59,7,arts,no,Manager
+34,35,5,arts,yes,Software Engineer
+58,96,1,none,no,Software Engineer
+76,36,8,sports,no,Teacher
+97,81,4,tech,no,Manager
+74,43,9,arts,no,Manager
+31,44,10,sports,no,Data Scientist
+56,50,6,tech,no,Teacher
+65,64,1,arts,no,Data Scientist
+65,95,3,arts,yes,Teacher
+55,31,3,tech,yes,Teacher
+72,64,10,tech,no,Software Engineer
+56,49,4,none,yes,Software Engineer
+98,39,6,sports,yes,Data Scientist
+49,54,7,sports,no,Teacher
+40,95,10,none,yes,Manager
+67,54,4,arts,no,Software Engineer
+35,83,6,tech,no,Manager
+52,62,1,tech,no,Data Scientist
+76,65,8,tech,no,Software Engineer
+75,43,7,arts,no,Software Engineer
+41,94,9,tech,yes,Teacher
+42,83,3,tech,no,Data Scientist
+91,81,2,none,yes,Teacher
+89,32,1,arts,no,Software Engineer
+72,70,3,sports,no,Data Scientist
+97,35,5,none,no,Software Engineer
+34,54,2,none,yes,Data Scientist
+66,42,3,sports,no,Software Engineer
+60,37,4,none,no,Manager
+38,50,7,arts,no,Manager
+80,97,3,tech,no,Teacher
+58,54,9,arts,yes,Manager
+69,97,8,sports,no,Software Engineer
+70,74,4,sports,yes,Software Engineer
+40,89,1,none,no,Manager
+52,41,1,arts,yes,Teacher
+30,61,1,arts,yes,Manager
+75,42,1,sports,no,Data Scientist
+50,60,8,arts,no,Data Scientist
+65,49,3,sports,yes,Data Scientist
+83,47,6,arts,no,Manager
+86,89,3,arts,no,Manager
+30,92,5,arts,no,Manager
+92,35,7,sports,yes,Data Scientist
+83,61,2,none,no,Teacher
+84,72,6,arts,no,Software Engineer
+69,31,6,sports,no,Manager
+44,89,3,sports,yes,Teacher
+50,52,6,arts,no,Software Engineer
+76,60,10,arts,yes,Software Engineer
+82,34,10,none,no,Software Engineer
+38,63,5,sports,yes,Teacher
+81,39,2,sports,no,Teacher
+86,31,9,tech,no,Data Scientist
+55,40,8,sports,yes,Teacher
+70,79,3,none,yes,Teacher
+64,60,8,tech,yes,Teacher
+92,85,9,tech,no,Software Engineer
+54,38,3,tech,no,Manager
+67,50,3,arts,no,Data Scientist
+31,57,2,arts,no,Manager
+36,91,8,sports,yes,Manager
+63,36,10,tech,no,Teacher
+46,45,1,none,no,Data Scientist
+72,33,8,arts,no,Manager
+88,33,7,none,no,Manager
+80,69,7,none,no,Data Scientist
+83,46,3,arts,no,Teacher
+53,81,1,arts,no,Manager
+54,81,4,arts,yes,Software Engineer
+81,65,9,arts,no,Manager
+99,67,5,tech,no,Software Engineer
+62,79,1,tech,no,Teacher
+78,92,5,tech,no,Manager
+58,92,8,tech,yes,Data Scientist
+92,91,8,sports,yes,Data Scientist
+51,36,5,tech,yes,Manager
+55,56,9,arts,yes,Teacher
+57,43,1,none,yes,Teacher
+78,34,4,tech,yes,Data Scientist
+78,84,3,sports,no,Manager
+49,31,2,arts,yes,Teacher
+92,91,8,none,yes,Data Scientist
+90,50,7,none,no,Software Engineer
+78,50,9,tech,yes,Manager
+30,39,2,none,no,Software Engineer
+42,87,4,tech,no,Software Engineer
+80,68,6,tech,yes,Teacher
+85,34,3,arts,no,Teacher
+91,94,8,arts,yes,Teacher
+61,42,3,sports,yes,Manager
+59,82,2,arts,no,Software Engineer
+58,74,3,arts,no,Manager
+78,61,6,tech,yes,Teacher
+74,65,2,arts,no,Software Engineer
+59,89,8,tech,no,Manager
+45,40,1,tech,yes,Manager
+69,92,7,arts,yes,Data Scientist
+48,50,2,sports,no,Manager
+47,81,10,sports,yes,Teacher
+30,84,6,none,yes,Manager
+76,55,2,none,yes,Software Engineer
+95,97,2,arts,yes,Manager
+67,63,10,sports,yes,Data Scientist
+80,81,8,tech,yes,Software Engineer
+92,81,2,none,yes,Software Engineer
+33,58,7,tech,no,Data Scientist
+30,67,3,none,yes,Teacher
+37,71,8,arts,no,Software Engineer
+58,50,7,sports,no,Teacher
+84,71,8,none,no,Software Engineer
+32,42,7,sports,yes,Software Engineer
+61,93,6,tech,yes,Teacher
+39,46,7,arts,no,Software Engineer
+63,38,5,sports,yes,Teacher
+84,70,7,arts,no,Data Scientist
+61,30,1,sports,yes,Teacher
+79,31,1,tech,yes,Data Scientist
+36,89,9,tech,no,Software Engineer
+37,77,5,arts,no,Teacher
+94,58,5,tech,no,Software Engineer
+86,39,3,none,yes,Teacher
+96,87,5,sports,no,Data Scientist
+88,89,3,tech,yes,Data Scientist
+83,50,9,none,yes,Teacher
+96,57,9,arts,yes,Data Scientist
+80,63,6,none,no,Software Engineer
+37,37,1,arts,no,Software Engineer
+63,88,7,arts,no,Manager
+64,78,7,sports,yes,Data Scientist
+61,46,10,sports,yes,Software Engineer
+75,89,10,none,no,Teacher
+45,74,4,sports,yes,Data Scientist
+97,98,8,sports,yes,Software Engineer
+66,61,6,sports,no,Data Scientist
+83,73,4,none,no,Teacher
+43,94,4,tech,no,Software Engineer
+84,37,2,sports,yes,Manager
+77,72,2,sports,yes,Manager
+36,30,4,none,yes,Data Scientist
